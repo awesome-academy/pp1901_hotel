@@ -6,6 +6,11 @@ npm-debug.log
 bootstrap/compiled.php
 app/storage/
 
+
+# PhpStorm
+.idea/
+
+
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
@@ -13,6 +18,8 @@ storage/*.key
 .env.*.php
 .env.php
 .env
+
+
 Homestead.yaml
 Homestead.json
 
